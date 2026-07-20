@@ -61,5 +61,5 @@ screenshots/
 docs/
 
 ## Author
-
-Omkar Pinapaka
+Intern ID:CITS7364
+Omkar Chowdary Pinapaka
